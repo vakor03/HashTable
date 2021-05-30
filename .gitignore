@@ -1,0 +1,14 @@
+
+.idea/.idea.HashTable/.idea/
+
+HashTable.ConsoleApp/bin/Debug/net5.0/
+
+HashTable.ConsoleApp/obj/Debug/net5.0/
+
+HashTable.Lib/obj/
+
+HashTable.ConsoleApp/.dockerignore
+
+HashTable.ConsoleApp/obj/
+
+HashTable.Lib/bin/Debug/net5.0/
